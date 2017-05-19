@@ -1,0 +1,62 @@
+baseURL = "http://tobias-breitwieser.biz/"
+languageCode = "de-de"
+title = "Tobias Breitwieser"
+theme = "beautifulhugo"
+
+
+[Params]
+  subtitle = "Programmer/IT-Guy and a guy who loves mountaineering"
+  logo = "img/avatar-icon.jpg"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Tobias Breitwieser"
+  # email = "youremail@domain.com"
+  # facebook = "username"
+  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "tarfu"
+  twitter = "ufrat"
+  # reddit = "username"
+  linkedin = "tobias-breitwieser-992707b1"
+  xing = "Tobias_Breitwieser"
+  # stackoverflow = "users/XXXXXXX/username"
+  # snapchat = "username"
+  # instagram = "username"
+  # youtube = "user/username" # or channel/channelname
+  # soundcloud = "username"
+  # spotify = "username"
+  # bandcamp = "username"
+  # itchio = "username"
+
+
+# Menu
+[[menu.main]]
+    name = "Main"
+    identifier = "main"
+    weight = -120
+    url = "/"
+[[menu.main]]
+    name = "Climbing logbook"
+    identifier = "logbook"
+    weight = -100
+    url = "/logbook/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = -110
+    url = "/about/"
