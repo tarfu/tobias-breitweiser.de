@@ -1,4 +1,4 @@
-baseURL = "http://tobias-breitwieser.de/"
+baseURL = "https://tobias-breitwieser.de/"
 languageCode = "de-de"
 title = "Tobias Breitwieser"
 theme = "beautifulhugo"
