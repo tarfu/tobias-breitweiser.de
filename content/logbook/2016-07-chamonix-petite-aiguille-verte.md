@@ -1,6 +1,6 @@
 +++
 date = "2016-07-10T18:11:09+02:00"
-draft = true
+draft = false
 title = "2016 07 chamonix petite aiguille verte"
 partners = ["Iain Bisset"]
 region = "Chamonix"
@@ -10,4 +10,5 @@ grade = "PD"
 attachments = "/data/"
 +++
 
-Am
+
+Am 10.07.2016 habe ich mit Iain Bisset den _Petite Aiguille Verte_ auf der _Northwest Ridge_ bestiegen.

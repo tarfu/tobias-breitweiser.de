@@ -1,0 +1,23 @@
+tobias-breitwieser.de www.tobias-breitwieser.de {
+    tls {
+        max_certs 10
+    }
+    root /var/www/tobias-breitwieser.de/public
+    gzip
+    log /var/log/caddy-tobias-breitwieser-de.log
+
+    git {
+        repo git@github.com:tarfu/tobias-breitweiser.de.git
+        branch master
+        key /var/www/deploy.key
+        path /var/www/tobias-breitwieser.de/repo
+        interval 600
+        hook /6ea078f37c40f28855de26aafe9b151b53b06c05 none
+        then hugo --destination=/var/www/tobias-breitwieser.de/public
+    }
+
+    errors /var/log/error-tobias-breitwieser-de.log {
+        404 404.html
+    }
+}
+
