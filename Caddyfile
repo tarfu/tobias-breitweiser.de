@@ -12,6 +12,7 @@ tobias-breitwieser.de www.tobias-breitwieser.de {
         key /var/www/deploy.key
         path /var/www/tobias-breitwieser.de/repo
         interval 600
+        pull_args --recurse-submodules
         hook /6ea078f37c40f28855de26aafe9b151b53b06c05 none
         then hugo --destination=/var/www/tobias-breitwieser.de/public
     }
@@ -20,4 +21,3 @@ tobias-breitwieser.de www.tobias-breitwieser.de {
         404 404.html
     }
 }
-
