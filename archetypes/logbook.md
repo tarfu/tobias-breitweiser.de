@@ -1,0 +1,14 @@
++++
+date = "2016-07-10T18:11:09+02:00"
+draft = true
+title = "yyyy mm region and peak"
+partners = [""]
+region = ""
+peak = ""
+route = ""
+grade = ""
+attachments = [""]
++++
+
+
+Am dd.mm.yyyy habe ich mit _Partner_ den **Berg** auf der **Route** bestiegen.
