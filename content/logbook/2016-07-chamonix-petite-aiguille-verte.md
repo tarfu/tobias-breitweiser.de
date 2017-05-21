@@ -8,6 +8,7 @@ peak = "Petite Aiguille Verte"
 route = "Northwest Ridge"
 grade = "PD"
 attachments = ["/data/"]
+links = [""]
 +++
 
 
