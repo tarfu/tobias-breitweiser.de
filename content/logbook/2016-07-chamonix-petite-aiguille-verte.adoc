@@ -1,7 +1,7 @@
 +++
 date = "2016-07-10T18:11:09+02:00"
 draft = false
-title = "2016 07 chamonix petite aiguille verte"
+title = "10.07.2016 Chamonix Petite Aiguille Verte"
 partners = ["Iain Bisset"]
 region = "Chamonix"
 peak = "Petite Aiguille Verte"
