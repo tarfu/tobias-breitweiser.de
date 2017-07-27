@@ -11,5 +11,4 @@ attachments = ["/data/"]
 links = [""]
 +++
 
-
-Am 10.07.2016 habe ich mit Iain Bisset den **Petite Aiguille Verte** auf der **Northwest Ridge** bestiegen.
+On 10.07.2016 Iain Bisset and I have done **Petite Aiguille Verte** over the **Northwest Ridge**.

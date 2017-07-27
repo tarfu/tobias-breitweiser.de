@@ -1,0 +1,14 @@
++++
+date = "2017-07-25T18:11:09+02:00"
+draft = false
+title = "25.07.2017 Ötztal Wildspitze (try)"
+partners = ["Daniel Rink"]
+region = "Ötztal"
+peak = "Wildspitze"
+route = "Normalroute through Mittelkarjoch from Breslauer Hut"
+grade = "PD-"
+attachments = [""]
+links = [""]
++++
+
+On the 25.07.2017 my Partner _(Daniel Rink)_ went out to summit the Wildspitze in Vent (Ötztal, Austria) over the normal route through Mittelkarjoch. Our base was the https://www.breslauerhuette.at/[Breslauer Hut]. Weather conditions where far from good with -2C to -5C, a chill temperature of -15C, snow, clouds and heavy winds. On the Taschachferner the visibility was partly down to a few meters and no tracks were visible. In this conditions I broke into a not visible crevasse and hit my knee hard a few meters before the end of the glacier. Due to the hurting knee we had to turn back 50 meters of height before the summit.
