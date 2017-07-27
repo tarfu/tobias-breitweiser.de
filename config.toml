@@ -1,5 +1,5 @@
 baseURL = "https://tobias-breitwieser.de/"
-languageCode = "de-de"
+languageCode = "en-en"
 title = "Tobias Breitwieser"
 theme = "beautifulhugo"
 
