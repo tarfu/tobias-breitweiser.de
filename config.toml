@@ -60,3 +60,13 @@ theme = "beautifulhugo"
     identifier = "about"
     weight = -110
     url = "/about/"
+[[menu.main]]
+    name = "Impressum"
+    identifier = "impressum"
+    weight = -5
+    url = "/impressum/"
+[[menu.main]]
+    name = "Datenschutz"
+    identifier = "datenschutz"
+    weight = 0
+    url = "/datenschutz/"

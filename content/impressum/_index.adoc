@@ -1,0 +1,24 @@
+---
+title: "Impressum"
+date: 2018-06-04T20:01:25+02:00
+draft: false
+---
+Die Schöpfung und Pflege dieser Seite unterliegt:
+
+[quote, ]
+____
+Tobias Breitwieser
+
+Robert-Bosch-Str. 28
+
+64293 Darmstadt
+
+E-Mail: mail@tobias-breitwieser.biz
+
+Telefon: 06150-9729611
+____
+
+
+Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: (siehe oben)
+
+Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
