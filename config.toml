@@ -46,10 +46,20 @@ theme = "beautifulhugo"
 
 # Menu
 [[menu.main]]
-    name = "Main"
+    name = "Posts"
     identifier = "main"
     weight = -120
+[[menu.main]]
+    name = "Postings"
+    identifier = "posts"
+    parent = "main"
+    weight = -120
     url = "/"
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    parent = "main"
+    weight = -120
 [[menu.main]]
     name = "Climbing logbook"
     identifier = "logbook"
