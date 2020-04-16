@@ -20,6 +20,9 @@ jobs:
           hugo-version: '0.68.3'
           # extended: true
 
+      - name: asciiDoctor
+        run: apt-get -y install asciidoctor
+
       - name: Build
         run: hugo --minify
 
