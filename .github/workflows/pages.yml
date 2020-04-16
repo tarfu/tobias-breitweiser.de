@@ -34,4 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           cname: tobias-breitwieser.de
-          publish_dir: ./
+          publish_dir: ./public
