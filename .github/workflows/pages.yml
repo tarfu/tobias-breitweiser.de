@@ -21,7 +21,7 @@ jobs:
           # extended: true
 
       - name: asciiDoctor
-        run: gem install asciidoctor
+        run: sudo gem install asciidoctor
 
       - name: Build
         run: hugo --minify
