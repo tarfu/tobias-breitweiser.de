@@ -9,6 +9,7 @@ route = "Northwest Ridge"
 grade = "PD"
 attachments = ["/data/"]
 links = [""]
+tags = ["mountaineering"]
 +++
 
 On 10.07.2016 Iain and I have done **Petite Aiguille Verte** over the **Northwest Ridge**.
