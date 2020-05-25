@@ -1,7 +1,7 @@
 baseURL = "https://tobias-breitwieser.de/"
 languageCode = "en-en"
 title = "Tobias Breitwieser"
-theme = "beautifulhugo"
+theme = ["beautifulhugo"]
 defaultContentLanguage = "en"
 
 
