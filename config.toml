@@ -80,5 +80,6 @@ defaultContentLanguage = "en"
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    parent = "main"
+    identifier = "tags"
+#    parent = "main"
     weight = 0
